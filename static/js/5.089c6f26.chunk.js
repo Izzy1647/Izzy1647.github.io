@@ -1,0 +1,2 @@
+(this["webpackJsonppersonal-site"]=this["webpackJsonppersonal-site"]||[]).push([[5],{164:function(t,e,s){"use strict";s.r(e);s(0);var o=s(19),n=(s(8),s(1));s(78),e.default=function(){return Object(n.jsxs)(o.a,{title:"Posts",description:"My blog posts.",children:["My posts are now moved to a seperated site:"," ",Object(n.jsx)("a",{href:"https://blog-zhiyu-zhou.vercel.app/",target:"_blank",children:"\ud83d\udc49CLICK HERE"})]})}},78:function(t,e){}}]);
+//# sourceMappingURL=5.089c6f26.chunk.js.map
